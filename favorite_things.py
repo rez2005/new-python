@@ -1,0 +1,13 @@
+favorites=['ba','eb','ac','dd','be']
+print(favorites)
+print(sorted(favorites))
+print(favorites)
+print(sorted(favorites,reverse=True))
+favorites.reverse()
+print(favorites)
+favorites.reverse()
+print(favorites)
+favorites.sort()
+print(favorites)
+favorites.sort(reverse=True)
+print(favorites)
